@@ -37,7 +37,7 @@ source venv/bin/activate
 With the virtual environment activated, install the required packages:
 
 ```bash
-pip install opencv-python numpy matplotlib
+pip install -r requirements.txt
 ```
 
 
