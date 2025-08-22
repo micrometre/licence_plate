@@ -6,7 +6,6 @@ This project demonstrates the key image preprocessing steps for Automatic Number
 ## Features
 - Step-by-step Jupyter notebooks for ANPR:
 	- **Part 1:** Image preprocessing (grayscale, noise reduction, blurring, edge detection, morphology, contour detection)
-	- **Part 2:** Plate detection engine (contour filtering, geometric validation, edge density, candidate visualization)
 - Visualizes each processing step for easy understanding
 
 ## Getting Started
@@ -50,7 +49,6 @@ pip install -r requirements.txt
 
 ## Reference
 - [ANPR Series Part 1: Advanced Image Preprocessing Techniques](https://henok.cloud/articles/anpr-part-1-image-preprocessing/)
-- [ANPR Series Part 2: Advanced Plate Detection Engine](https://henok.cloud/articles/anpr-part-2-plate-detection/)
 
 ## License
 This project is for educational purposes. See the original article for more details.
