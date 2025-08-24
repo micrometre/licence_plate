@@ -13,7 +13,6 @@ build/
 .idea/
 *.swp
 *~
-*.jpg
 *.log
 *.avi
 *.webm
